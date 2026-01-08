@@ -1,0 +1,26 @@
+1 - Criar uma biblioteca que possua funções:
+ responsáveis por manipular o arquivo
+ responsáveis pela interface
+
+2 - Arquivo
+Função para verificar se o arquivo existe
+Função para criar o arquivo caso não exista
+Função para ler o arquivo
+Função para cadastrar as pessoas
+
+3 - Interface
+Função para criar linhas
+Função para criar e organizar cabeçalho
+Função leiaInt para ler um número e validar se possui erros de digitação
+Função para formatar o menu conforme o que é escrito no sistema principal
+
+4 - Sistema principal
+Importará as bibliotecas
+    Irá nomear o arquivo
+        Irá validar se o arquivo existe e senão existir irá criar
+            Um looping que irá mostrar as opções do menu e ler a resposta do usuário 
+
+Opção 1: Irá ler o arquivo e mostrar ao usuário as pessoas cadastradas em nome e idade
+Opção 2: Irá printar um cabeçalho e solicitar dois input, sendo nome e idade para cadastrar uma nova pessoa
+Opção 3: Irá sair do sistema com um break, encerrando e printando uma mensagem de despedida
+O sistema também terá uma validação de dados, verificando se a opção digitada é válida
