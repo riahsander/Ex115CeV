@@ -22,5 +22,5 @@ while True:
         print(cabecalho('SAINDO DO SISTEMA...ATÉ LOGO!'))
         break 
     else:
-        print('ERRO: Não é uma opção válida.')
+        print('\033[031mERRO: Não é uma opção válida.\033[m')
     sleep(2)

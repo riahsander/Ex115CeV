@@ -1,18 +1,18 @@
 1 - Criar uma biblioteca que possua funções:
- responsáveis por manipular o arquivo X
+ responsáveis por manipular o arquivo 
  responsáveis pela interface
 
 2 - Arquivo
-Função para verificar se o arquivo existe X
-Função para criar o arquivo caso não exista X 
-Função para ler o arquivo X
-Função para cadastrar as pessoas X
+Função para verificar se o arquivo existe 
+Função para criar o arquivo caso não exista 
+Função para ler o arquivo 
+Função para cadastrar as pessoas 
 
 3 - Interface
-Função para criar linhas X
-Função para criar e organizar cabeçalho X
-Função leiaInt para ler um número e validar se possui erros de digitação X
-Função para formatar o menu conforme o que é escrito no sistema principal X
+Função para criar linhas 
+Função para criar e organizar cabeçalho 
+Função leiaInt para ler um número e validar se possui erros de digitação 
+Função para formatar o menu conforme o que é escrito no sistema principal 
 
 4 - Sistema principal
 Importará as bibliotecas
