@@ -43,5 +43,5 @@ def cadastrar(arq, nome = 'desconhecido', idade = 0):
         except:
             print('Erro ao adicionar os dados!')
         finally:
-            print('Pessoa cadastrada com sucesso.')
+            print(f'Pessoa cadastrada com sucesso. {nome} foi cadastrado(a).')
             a.close()
